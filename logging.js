@@ -1,5 +1,5 @@
-const log4js = require("log4js");
-log4js.configure({
+const node = require("node");
+node.configure({
     appenders: {
         console: { type: "console" },
     },
