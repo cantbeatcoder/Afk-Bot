@@ -25,9 +25,9 @@
     },
 
     "anti-afk": {
-      "enabled": ture,
+      "enabled": true,
       "sneak": false,
-      "jump": ture,
+      "jump": true,
       "rotate": false,
 
       "hit": {
